@@ -1,2 +1,2 @@
 # Sample
-Some descriptive steps
+Some descriptive steps for this file.
